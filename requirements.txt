@@ -1,0 +1,10 @@
+
+pandas
+numpy
+geopy
+scikit-learn
+folium
+matplotlib
+seaborn
+branca
+tabulate
