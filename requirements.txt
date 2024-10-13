@@ -7,4 +7,3 @@ folium
 matplotlib
 seaborn
 branca
-tabulate
